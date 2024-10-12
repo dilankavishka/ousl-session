@@ -1,8 +1,3 @@
-
-# Dynamic HTML File Linker
-
-This project dynamically links all `.html` files in a directory to an existing `index.html` using a Node.js and Express server. Any new HTML files added will automatically be displayed on the index page.
-
 ## Features
 
 - Automatically lists all `.html` files in a directory on the main index page.
